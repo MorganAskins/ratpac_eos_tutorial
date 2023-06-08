@@ -1,0 +1,5 @@
+*__pycache__*
+venv
+*.root
+.envrc
+.ipynb_checkpoints/*
